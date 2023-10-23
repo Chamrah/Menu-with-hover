@@ -1,0 +1,20 @@
+
+table{
+    border-collapse: collapse;
+    width: 15%;
+    height: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 231, 231);
+   
+}
+tr td:hover{
+    background-color: rgb(2, 207, 111);
+    color: white;
+    cursor: pointer;
+}
+tr td{
+    height: 30px;
+    
+}
+
